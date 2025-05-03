@@ -1,9 +1,0 @@
-<svg width="30" height="30" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bananaGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFA500" />
-      <stop offset="100%" stop-color="#FF4500" />
-    </linearGradient>
-  </defs>
-  <path d="M20 10c-2 10 2 18 8 24s14 9 20 8c2-5-1-11-4-14-3-4-8-8-13-10-3-1-7-1-11-8z" fill="url(#bananaGradient)" stroke="#cc6600" stroke-width="1"/>
-</svg>
